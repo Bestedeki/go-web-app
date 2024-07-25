@@ -8,7 +8,7 @@ image:
   repository: bestedeki/go-web-app
   pullPolicy: IfNotPresent
   # Overrides the image tag whose default is the chart appVersion.
-  tag: "10102473355"
+  tag: "10102540475"
 
 ingress:
   enabled: false
